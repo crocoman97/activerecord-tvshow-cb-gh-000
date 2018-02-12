@@ -5,6 +5,7 @@ class CreateShows < ActiveRecord::Migration
       t.string :name 
       t.string :network
       t.day :day
+      
     end
   end
   
